@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"BananaBoi"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.1"
+			],
+			"dash": [
+				"0.10.10"
+			]
+		}
+	},
+	"header": {
+		"name": "help",
+		"description": "i need therapy",
+		"min_engine_version": [
+			1,
+			20,
+			0
+		],
+		"uuid": "cf378864-0a29-454b-8654-82a177811b7c",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "7d33e03a-bd80-46f4-87a6-c7a53a707bc9",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

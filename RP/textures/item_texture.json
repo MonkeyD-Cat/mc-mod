@@ -1,0 +1,15 @@
+{
+	"resource_pack_name": "help",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"ballz": {
+			"textures": "textures/items/balls"
+		},
+		"idk_destroyer": {
+			"textures": "textures/items/destroyer"
+		},
+		"idk_e": {
+			"textures": "textures/items/e"
+		}
+	}
+}

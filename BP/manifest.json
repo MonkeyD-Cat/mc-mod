@@ -1,0 +1,70 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"BananaBoi"
+		],
+		"generated_with": {
+			"Banana Engine": [
+				"2.6.1"
+			],
+			"dash": [
+				"0.10.10"
+			],
+			"bridge": [
+				"2.6.1"
+			]
+		}
+	},
+	"header": {
+		"name": "help",
+		"description": "i need therapy",
+		"min_engine_version": [
+			1,
+			20,
+			0
+		],
+		"uuid": "2ae1a3d5-6095-49a5-ba8c-a1376f5e8d39",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "f6508c42-4195-42d4-ab49-2f04d9f0e1c1",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "02339b6f-5054-4ab3-8136-68c9c4aa5a77",
+			"entry": "scripts/main.js",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.0.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server-gametest",
+			"version": "1.0.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "1.0.0-beta"
+		}
+	]
+}
